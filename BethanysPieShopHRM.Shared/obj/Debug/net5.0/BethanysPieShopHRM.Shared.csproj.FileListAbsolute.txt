@@ -1,0 +1,12 @@
+C:\Users\adavila\Documents\GitHub\BethanysPieShopHRM-private\BethanysPieShopHRM.Shared\bin\Debug\net5.0\BethanysPieShopHRM.Shared.deps.json
+C:\Users\adavila\Documents\GitHub\BethanysPieShopHRM-private\BethanysPieShopHRM.Shared\bin\Debug\net5.0\BethanysPieShopHRM.Shared.dll
+C:\Users\adavila\Documents\GitHub\BethanysPieShopHRM-private\BethanysPieShopHRM.Shared\bin\Debug\net5.0\ref\BethanysPieShopHRM.Shared.dll
+C:\Users\adavila\Documents\GitHub\BethanysPieShopHRM-private\BethanysPieShopHRM.Shared\bin\Debug\net5.0\BethanysPieShopHRM.Shared.pdb
+C:\Users\adavila\Documents\GitHub\BethanysPieShopHRM-private\BethanysPieShopHRM.Shared\obj\Debug\net5.0\BethanysPieShopHRM.Shared.csprojAssemblyReference.cache
+C:\Users\adavila\Documents\GitHub\BethanysPieShopHRM-private\BethanysPieShopHRM.Shared\obj\Debug\net5.0\BethanysPieShopHRM.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adavila\Documents\GitHub\BethanysPieShopHRM-private\BethanysPieShopHRM.Shared\obj\Debug\net5.0\BethanysPieShopHRM.Shared.AssemblyInfoInputs.cache
+C:\Users\adavila\Documents\GitHub\BethanysPieShopHRM-private\BethanysPieShopHRM.Shared\obj\Debug\net5.0\BethanysPieShopHRM.Shared.AssemblyInfo.cs
+C:\Users\adavila\Documents\GitHub\BethanysPieShopHRM-private\BethanysPieShopHRM.Shared\obj\Debug\net5.0\BethanysPieShopHRM.Shared.csproj.CoreCompileInputs.cache
+C:\Users\adavila\Documents\GitHub\BethanysPieShopHRM-private\BethanysPieShopHRM.Shared\obj\Debug\net5.0\BethanysPieShopHRM.Shared.dll
+C:\Users\adavila\Documents\GitHub\BethanysPieShopHRM-private\BethanysPieShopHRM.Shared\obj\Debug\net5.0\ref\BethanysPieShopHRM.Shared.dll
+C:\Users\adavila\Documents\GitHub\BethanysPieShopHRM-private\BethanysPieShopHRM.Shared\obj\Debug\net5.0\BethanysPieShopHRM.Shared.pdb

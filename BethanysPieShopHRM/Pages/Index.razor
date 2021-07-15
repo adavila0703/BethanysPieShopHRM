@@ -1,0 +1,27 @@
+﻿@page "/"
+@inherits IndexBase
+
+
+Example of one way, two way, and two way on even model binding
+
+<h1 class="page-title">Welcom to Bethany's Pie Shop HRM!</h1>
+<br />
+<h3>Using this application, you can manage your wonderful staff working for us all over the world.</h3>
+
+
+<input type="text" value="@Employee.FirstName" />
+<input type="text" value="@Employee.LastName" />
+
+<hr />
+
+
+<input type="text" @bind="@Employee.FirstName" />
+<input type="text" @bind="@Employee.LastName" />
+
+
+
+<hr />
+
+
+<input type="text" @bind-value="@Employee.FirstName" @bind-value:event="oninput" />
+<input type="text" @bind-value="@Employee.LastName" @bind-value:event="oninput" />
