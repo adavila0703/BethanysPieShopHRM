@@ -20,8 +20,7 @@ namespace BethanysPieShopHRM.Services
 
         public async Task<Employee> AddEmployee(Employee employee)
         {
-            var employeeJson =
-                new StringContent(JsonSerializer.Serialize(employee), Encoding.UTF8, "application/json");
+            var employeeJson = new StringContent(JsonSerializer.Serialize(employee), Encoding.UTF8, "application/json");
 
             var response = await _httpClient.PostAsync("api/employee", employeeJson);
 
@@ -59,15 +58,9 @@ namespace BethanysPieShopHRM.Services
 
         public async Task UpdateEmployee(Employee employee)
         {
-            var employeeJson =
-                new StringContent(JsonSerializer.Serialize(employee), Encoding.UTF8, "application/json");
+            var employeeJson = new StringContent(JsonSerializer.Serialize(employee), Encoding.UTF8, "application/json");
 
             await _httpClient.PutAsync("api/employee", employeeJson);
-        }
-
-        Task<Employee> IEmployeeDataService.UpdateEmployee(Employee employee)
-        {
-            throw new NotImplementedException();
         }
     }
 }
